@@ -196,7 +196,7 @@ int main(){
     char_sequence2.push_back('T'); 
     char_sequence2.push_back('A'); 
     char_sequence2.push_back('C'); 
-    char_sequence2.push_back('G'); 
+    char_sequence2.push_back('T'); 
     char_sequence2.push_back('A'); 
     char_sequence2.push_back('T'); 
     char_sequence2.push_back('A'); 
